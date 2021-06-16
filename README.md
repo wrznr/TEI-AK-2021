@@ -1,2 +1,2 @@
-# slide-template
-Template for [`remarkjs`](https://remarkjs.com/)-based slides deployed via GitHub Pages
+# OCR für den Arbeitskreis TEI
+Folien und Materialien
