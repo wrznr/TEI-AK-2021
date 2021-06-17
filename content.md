@@ -38,16 +38,16 @@ layout: true
 class: title-slide
 count: false
 
-# Title
-## Subtitle
+# OCR für Enthusiasten
+## Vom Bild zur TEI-Edition – selbst!
 
 ---
 
 # Overview
 
-- Section 1
-  + Subsection 1
-- Section 2
+- methodische und technologische Grundlagen von OCR
+- Hands-on mit Tesseract
+- Training eigener OCR-Modelle
 
 ---
 
