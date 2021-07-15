@@ -1653,6 +1653,20 @@ The Lazy Dog
 
 ---
 
+# Hands-on – Helferlein
+
+- **Kommandozeile**
+    + wichtigeste Voraussetzung für „das nächste Level“
+    + Linux: `bash`, `zsh`; MacOS: `terminal`; Windows: `cmd`
+- `ImageMagick`: [imagemagick.org](https://imagemagick.org/script/download.php#windows)
+    + Bildbearbeitungs- und **-konvertierungsprogramm**
+    + einfache Anwendung auf der Kommandozeile
+- `QPDF`: [qpdf.sourceforge.net](http://qpdf.sourceforge.net/)
+    + PDF-Bearbeitung auf der Kommandozeile
+    + insb. **Aufteilen** und **Zusammenführen**
+
+---
+
 # Hands-on – Walkthrough
 
 <a href="https://digital.slub-dresden.de/data/kitodo/DresPh_880545186-1993030301_01-a/DresPh_880545186-1993030301_01-a_tif/jpegs/DresPh_880545186-1993030301_01-a.pdf">Beispiel-PDF</a> (ohne Text)
